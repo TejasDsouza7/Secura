@@ -138,9 +138,9 @@ Secura Local DB/
 4. **Download**:
    - Users can download files directly from the database.
 
----
 
 ## Notes
+- **The login functionality above the upload files section on the website is only for testing purposes.** It is used to verify that the username and password you entered in db.go are working correctly.
 - Ensure that the device accessing the server is connected to the same Wi-Fi network as the server.
 - Use the server's IP address to access the application from other devices.
 
