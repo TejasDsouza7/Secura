@@ -22,7 +22,7 @@ Secura Local DB is a Go-based local database server that allows users to:
 ### 1. Clone the Repository
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/Secura-Local-DB.git
+git clone https://github.com/TejasDsouza7/Secura-Local-DB.git
 cd Secura-Local-DB
 ```
 
