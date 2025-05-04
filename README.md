@@ -105,7 +105,7 @@ http://localhost:8080
 
 ## Folder Structure
 ```
-Secura Local DB/
+Secura/
 ├── main.go
 ├── config.json
 ├── go.mod
