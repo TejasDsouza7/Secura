@@ -1,7 +1,7 @@
 ```markdown
-# Secura Local DB
+# Secura
 
-Secura Local DB is a Go-based local database server that allows users to:
+Secura is a Go-based local database server that allows users to:
 - Log in with a username and password (whitelisted users only).
 - Upload files to the server.
 - View a list of uploaded files.
@@ -22,8 +22,8 @@ Secura Local DB is a Go-based local database server that allows users to:
 ### 1. Clone the Repository
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/TejasDsouza7/Secura-Local-DB.git
-cd Secura-Local-DB
+git clone https://github.com/TejasDsouza7/Secura.git
+cd Secura
 ```
 
 ---
